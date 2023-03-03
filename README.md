@@ -6,7 +6,7 @@
 ### 𝕎𝕙𝕚𝕝𝕖 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ### 𝕋𝕙𝕖 𝕗𝕦𝕥𝕦𝕣𝕖
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 # 📊 𝕊𝕥𝕒𝕥𝕤
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberNat2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
