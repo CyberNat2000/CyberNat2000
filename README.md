@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Programming Student (5/5 year)
 # 🛠 𝕄𝕪 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖:
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 # 💻 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜:
